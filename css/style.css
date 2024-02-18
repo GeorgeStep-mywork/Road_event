@@ -121,7 +121,7 @@ li {
 /* line 80, ../../Arafath/CL/December/236. Event-02/HTML/scss/theme-default.scss */
 p {
   font-size: 20px;
-  color: #AAB1B7;
+  color: #23272a;
   line-height: 32px;
   margin-bottom: 0;
   font-weight: 400;
@@ -780,7 +780,7 @@ h3 {
 /* line 34, ../../Arafath/CL/December/236. Event-02/HTML/scss/_section_title.scss */
 .section_title p {
   font-size: 20px;
-  color: #AAB1B7;
+  color: #23272a;
   line-height: 32px;
   margin-bottom: 0;
   font-weight: 400;
@@ -1478,12 +1478,12 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
 .slider_bg_1 {
-  background-image: url(../img/banner/banner.jpg);
+  background-image: url(../img/banner/bannerjee.jpg);
 }
 
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
 .slider_bg_2 {
-  background-image: url(../img/banner/website\ -\ Copy.png);
+  background-image: url(../img/banner/bannerjee.jpg);
 }
 
 /* line 7, ../../Arafath/CL/December/236. Event-02/HTML/scss/_slider.scss */
@@ -2020,22 +2020,22 @@ h3 {
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_1 {
-  background-image: url(../img/banner/bradcam_1.png);
+  background-image: url(../img/banner/bannerjee.jpg);
 }
 
 /* line 4, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_2 {
-  background-image: url(../img/banner/bradcam_2.png);
+  background-image: url(../img/banner/bannerjee.jpg);
 }
 
 /* line 7, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_3 {
-  background-image: url(../img/banner/bradcam_3.png);
+  background-image: url(../img/banner/bannerjee.jpg);
 }
 
 /* line 10, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
 .bradcam_bg_4 {
-  background-image: url(../img/banner/details.png);
+  background-image: url(../img/banner/bannerjee.jpg);
 }
 
 /* line 14, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
@@ -2355,7 +2355,7 @@ h3 {
   font-weight: 600;
   font-size: 20px;
   margin-right: 20px;
-  color: #AAB1B7;
+  color: #23272a;
 }
 
 @media (max-width: 767px) {
@@ -2610,7 +2610,7 @@ h3 {
 /* line 36, ../../Arafath/CL/December/236. Event-02/HTML/scss/_footer.scss */
 .footer .copy-right_text .copy_right {
   font-size: 14px;
-  color: #AAB1B7;
+  color: #23272a;
   margin-bottom: 0;
   font-weight: 400;
   font-family: "Muli", sans-serif;
