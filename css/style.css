@@ -2019,6 +2019,10 @@ h3 {
 }
 
 /* line 1, ../../Arafath/CL/December/236. Event-02/HTML/scss/_bradcam.scss */
+.bradcam_bg_tshirt {
+  background-image: url(../img/banner/tshirt-background.png);
+}
+
 .bradcam_bg_1 {
   background-image: url(../img/banner/bannerjee.jpg);
 }
@@ -5850,6 +5854,49 @@ h6 {
   }
 }
 
+.product__details__cart__option {
+	margin-bottom: 25px;
+}
+
+.product__details__cart__option .quantity {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+.product__details__cart__option .quantity .pro-qty {
+	width: 100px;
+	height: 40px;
+	border: 1px solid #e5e5e5;
+	position: relative;
+}
+
+.product__details__cart__option .quantity .pro-qty input {
+	color: #0d0d0d;
+	font-size: 15px;
+	font-weight: 700;
+	width: 70px;
+	height: 100%;
+	text-align: center;
+	border: none;
+}
+
+.product__details__cart__option .quantity .pro-qty .qtybtn {
+	font-size: 18px;
+	color: #0d0d0d;
+	position: absolute;
+	right: 15px;
+	top: 3px;
+	height: 10px;
+	width: 10px;
+	cursor: pointer;
+	font-weight: 600;
+}
+
+.product__details__cart__option .quantity .pro-qty .qtybtn.inc {
+	top: 16px;
+}
+
+
 .product__details__pic__item {
   position: relative;
 
@@ -5874,7 +5921,7 @@ h6 {
 .product__details__text {
   text-align: center;
 
-  h4 {
+  h3 {
       color: $heading-color;
       font-weight: 700;
       margin-bottom: 10px;
@@ -5897,7 +5944,7 @@ h6 {
       }
   }
 
-  h3 {
+  h4 {
       color: #0d0d0d;
       font-weight: 700;
       margin-bottom: 16px;
@@ -5907,7 +5954,7 @@ h6 {
           font-size: 20px;
           font-weight: 400;
           margin-left: 10px;
-          text-decoration: line-through;
+          /* text-decoration: line-through; */
       }
   }
 
@@ -6016,6 +6063,19 @@ h6 {
   }
 }
 
+.product__details__last__option h5 {
+	color: #111111;
+	font-weight: 700;
+	font-size: 20px;
+	position: relative;
+	margin-bottom: 26px;
+}
+
+.product__details__last__option h5 span {
+	background: #ffffff;
+	padding: 0 30px;
+}
+
 .product__details__cart__option {
   margin-bottom: 25px;
 
@@ -6098,7 +6158,7 @@ h6 {
           top: 10px;
           height: 1px;
           width: 460px;
-          background: #e5e5e5;
+          background: #ffffff;
           content: "";
           z-index: -1;
           margin: 0 auto;
